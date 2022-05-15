@@ -17,4 +17,4 @@ Seccionamiento de página web. Inicio de sesión a través de sessión start.
 - PHP 8
 
 
-### Infoclub - Desafío Latam - SENCE
+### Nicolás Galaz
